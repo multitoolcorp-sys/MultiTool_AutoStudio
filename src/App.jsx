@@ -181,7 +181,7 @@ export default function App() {
       <main className="viewport-area">
         <header className="top-hud">
           <div className="brand-block">
-            <img src="/icon.png" alt="MultiTool AutoStudio" className="brand-icon-img" />
+            <img src="./icon.png" alt="MultiTool AutoStudio" className="brand-icon-img" />
             <div>
               <h1>MultiTool AutoStudio</h1>
               <span className="brand-sub">
